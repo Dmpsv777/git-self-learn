@@ -1,3 +1,6 @@
 Text inside file develop_file.txt!!!
 
 Change made on LOCAL MACHINE.
+Change made on GITHUB.
+
+NICE! I kept both changes and removed git's marks.

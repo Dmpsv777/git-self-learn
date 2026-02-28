@@ -4,3 +4,7 @@ Change made on LOCAL MACHINE.
 Change made on GITHUB.
 
 NICE! I kept both changes and removed git's marks.
+
+Feb 27: Change made on DEVELOP BRANCH.
+
+Alright, I rezolved conflict ahd proceding with merge of main and develop.

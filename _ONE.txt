@@ -1,5 +1,3 @@
 one
 
 ONE ONE - a change made on GitHub.
-
-A new feature (TO BE DELETED LATER), made on local machine on Sunday, March 1, at 0:32.

@@ -2,7 +2,4 @@ Here's some text.
 
 New test here.
 
-
-feature TWO.
-
-feature THREE!!!
+feature FOUR!!!!

@@ -3,4 +3,4 @@ Here's some text.
 New test here.
 
 
-Feature ONE.
+feature TWO.

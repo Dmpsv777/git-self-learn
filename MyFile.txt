@@ -5,4 +5,4 @@ New test here.
 
 feature TWO.
 
-feature THREE!
+feature THREE!!!
